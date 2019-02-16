@@ -55,6 +55,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+
+
+
+
+
+
 Time spent: 3.5 hours spent in total
 
 ## User Stories
